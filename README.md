@@ -46,7 +46,7 @@ telecom-fraud-detection/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/telecom-fraud-detection.git
+   git clone https://github.com/Mhmd-14/telecom-fraud-detection.git
    cd telecom-fraud-detection
    ```
 
